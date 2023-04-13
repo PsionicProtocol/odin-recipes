@@ -5,4 +5,4 @@ By this project's completion, I will have demonstrated my understanding with the
 
 * Basic elements such as ol, a, and image
 * The use of Git and Github and best commit message practices
-* Boilerplates and what the elements nested in the "<head>" element control
+* Boilerplates and what the elements nested in the head element control
