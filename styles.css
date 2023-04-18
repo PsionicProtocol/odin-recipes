@@ -1,0 +1,57 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: white;
+}
+
+img {
+    width: 30%;
+    height: auto;
+}
+
+.title {
+    text-align: center;
+    margin: 0;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.electric {
+    color: blue;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+    margin: auto;
+    width: 20%;
+}
+
+.odd {
+    background-color: whitesmoke;
+    padding: 50px;
+}
+
+.even {
+    background-color: white;
+    padding: 50px
+}
+
+
+footer {
+    background-color: whitesmoke;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+    padding-bottom: 15px;
+    margin-top: 50px;
+}
+
